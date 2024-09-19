@@ -1,0 +1,248 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573117379424@s.whatsapp.net',
+    fromMe: false,
+    id: 'D0221F30B3F91FAB1768E205687BDAAD',
+    participant: undefined
+  },
+  messageTimestamp: 1726718959,
+  pushName: 'Recuperación Aumentada',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Recuperación Aumentada',
+  body: 'Hola',
+  from: '573117379424'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ea441942-7c96-42f2-bd0a-590a6b00708d',
+  keyword: 'key_9d640b78-e985-4703-9423-567d73de4cad',
+  answer: '🙌 Hola bienvenido *Soy un asistente*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '63c3346ad203c05910950ec0adce3c8e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94698a9f-79b0-4851-af8e-bb890240acbe',
+  keyword: 'ans_ea441942-7c96-42f2-bd0a-590a6b00708d',
+  answer: 'Si quieres conocer algo sobre Paulo escribe la opcion en negrita.\n' +
+    '👉 *perfil* para conocer el perfil de Paulo\n' +
+    '👉 *adios*  para finalizar la conversación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '55edd463bb941e86566998e8867e7904'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573117379424@s.whatsapp.net',
+    fromMe: false,
+    id: 'D3BF72A145540FFA7FAFCF884BE2AFD4',
+    participant: undefined
+  },
+  messageTimestamp: 1726718966,
+  pushName: 'Recuperación Aumentada',
+  broadcast: false,
+  message: Message {
+    conversation: 'Perfil',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Recuperación Aumentada',
+  body: 'Perfil',
+  from: '573117379424'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7046e2ba-ddec-43d4-b2ab-5c698ba079aa',
+  keyword: 'key_2df079b2-69ba-4e48-a2e3-e957d87e545c',
+  answer: '📄 Paulo Javier Pérez Paternina es un desarrollador backend con las siguientes características:\n' +
+    '\n' +
+    '*1* Experiencia y habilidades:\n' +
+    'Especializado en desarrollo backend\n' +
+    'Maneja bases de datos como MariaDB/MySQL, MongoDB, y MS SQL Server',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9b8849a9ff1f4ed666f7d087288b1784'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573117379424@s.whatsapp.net',
+    fromMe: false,
+    id: '2A865116DFC53B97E2A03B2B7D98BB52',
+    participant: undefined
+  },
+  messageTimestamp: 1726718973,
+  pushName: 'Recuperación Aumentada',
+  broadcast: false,
+  message: Message {
+    conversation: 'Adios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Recuperación Aumentada',
+  body: 'Adios',
+  from: '573117379424'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573117379424@s.whatsapp.net',
+    fromMe: false,
+    id: '9ED8BB1C94A3C70CACBDFA954C102D34',
+    participant: undefined
+  },
+  messageTimestamp: 1726718983,
+  pushName: 'Recuperación Aumentada',
+  broadcast: false,
+  message: Message {
+    conversation: 'adios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Recuperación Aumentada',
+  body: 'adios',
+  from: '573117379424'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573117379424@s.whatsapp.net',
+    fromMe: false,
+    id: '4AF5066DA5BF7B2466D48E70370D102B',
+    participant: undefined
+  },
+  messageTimestamp: 1726719002,
+  pushName: 'Recuperación Aumentada',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Recuperación Aumentada',
+  body: 'Hola',
+  from: '573117379424'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ea441942-7c96-42f2-bd0a-590a6b00708d',
+  keyword: 'key_9d640b78-e985-4703-9423-567d73de4cad',
+  answer: '🙌 Hola bienvenido *Soy un asistente*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '63c3346ad203c05910950ec0adce3c8e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94698a9f-79b0-4851-af8e-bb890240acbe',
+  keyword: 'ans_ea441942-7c96-42f2-bd0a-590a6b00708d',
+  answer: 'Si quieres conocer algo sobre Paulo escribe la opcion en negrita.\n' +
+    '👉 *perfil* para conocer el perfil de Paulo\n' +
+    '👉 *adios*  para finalizar la conversación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '55edd463bb941e86566998e8867e7904'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573117379424@s.whatsapp.net',
+    fromMe: false,
+    id: 'F10238BD28C43405820C1CCCD12C51AD',
+    participant: undefined
+  },
+  messageTimestamp: 1726719007,
+  pushName: 'Recuperación Aumentada',
+  broadcast: false,
+  message: Message {
+    conversation: 'Adios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Recuperación Aumentada',
+  body: 'Adios',
+  from: '573117379424'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_596f5b52-f7db-471e-87e3-9d07ddebda8f',
+  keyword: 'key_8dea8571-7683-42d3-a8de-e019e7a66d7c',
+  answer: '🚀 Vuelve cuando quieras aqui estare para ayudarte.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6832cce6dc81a14ad554496ea810b18d'
+}
