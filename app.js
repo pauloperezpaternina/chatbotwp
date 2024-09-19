@@ -31,11 +31,11 @@ const flowAdios = addKeyword(['adios','adiós', 'adio','gracias']).addAnswer(
     [flowTercero]
 )
 
-const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'Buenos dias'])
+const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'Buenos dias', 'Buenas tardes'])
     .addAnswer('🙌 Hola bienvenido *Soy un asistente*')
     .addAnswer(
         [
-            'Si quieres conocer algo sobre Paulo escribe la opcion en negrita.',
+            'Escribe una de las opciones en negrita.',
             '👉 *perfil* para conocer el perfil de Paulo',
             '👉 *adios*  para finalizar la conversación',
         ],
